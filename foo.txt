@@ -1,4 +1,8 @@
 Test
 A
 B
+<<<<<<< HEAD
 C
+=======
+D
+>>>>>>> new-branch-2
