@@ -1,8 +1,6 @@
-Test
 A
 B
-<<<<<<< HEAD
 C
-=======
 D
 E
+F
